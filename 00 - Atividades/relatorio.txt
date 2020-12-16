@@ -1,0 +1,10 @@
+33.33333333333333% dos funcionários são do sexo masculino
+1 dos funcionários são maiores de idade
+2 dos funcionários são menores de idade
+De 3, 1 são Gerentes
+De 3, 0 são Atendentes
+De 3, 0 são Açougueiros
+De 3, 0 são Secretários
+De 3, 1 são Almoxarifes
+De 3, 1 são Padeiros
+De 3, 0 são Estagiários
